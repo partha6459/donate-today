@@ -36,3 +36,65 @@
     border-style: none;
     border-radius: 5px;
 }
+
+/* 1st Body Part */
+
+.donate-1stpart{
+    padding: 10px;
+    text-align: center;
+}
+.dt-title{
+    padding-top: 120px;
+    font-size: 50px;
+    color: black;
+    font-weight: bold;
+}
+.dt-description{
+    padding-top: 20px;
+    padding-bottom: 80px;
+    font-size: 20px;
+    color: gray;
+}
+.money-btn{
+    padding: 30px 35px;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(70, 70, 70);
+    background-color: rgb(235, 235, 235);
+    border-style: none;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.dif-btn{
+    padding: 30px 35px;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(238, 66, 66);
+    background-color: rgb(243, 213, 213);
+    border-style: solid;
+    border-color: rgb(238, 66, 66);
+    border-radius: 5px;
+    border-width: 3px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.scnd-btn{
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(238, 66, 66);
+    border-style: none;
+    border-radius: 5px;
+    margin-top: 40px;
+    
+}
+.other-amount{
+    width: 63%;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 65px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    color: rgb(70, 70, 70);
+    border-bottom: 2px solid rgb(138, 137, 137);
+}
