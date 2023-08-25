@@ -229,20 +229,30 @@
 }
 
 .last-partbtn1{
-    padding: 15px 22px;
-    font-size: 19px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 200px;
+    padding-left: 20px;
+    font-size: 15px;
     font-weight: bold;
-    color: white;
-    background-color: rgb(238, 66, 66);
+    color: rgb(77, 77, 77);
+    background-color: rgb(182, 181, 181);
     border-style: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 .last-partbtn2{
-    padding: 15px 22px;
-    font-size: 19px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 15px;
     font-weight: bold;
     color: white;
     background-color: rgb(238, 66, 66);
     border-style: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 .text{
@@ -250,6 +260,17 @@
     background-color: gray;
     padding: 15px 22px;
     color: white;
+}
+
+.lst-box{
+    padding-bottom: 65px;
+    padding-top: 65px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(248, 230, 197);
+    margin-top: 70px;
+    margin-left: 290px;
+    margin-right: 290px;
 }
 
 
