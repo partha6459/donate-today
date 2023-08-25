@@ -98,3 +98,115 @@
     color: rgb(70, 70, 70);
     border-bottom: 2px solid rgb(138, 137, 137);
 }
+
+/* 2nd Part */
+
+.second-part{
+    text-align: center;
+}
+
+.secondpart-title{
+    margin-top: 65px;
+    margin-bottom: 20px;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.secondpart-desc{
+    font-size: 20px;
+    margin-bottom: 35px;
+    color: rgb(70, 70, 70);
+}
+
+/* box-section */
+
+.box-section{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.first-box{
+    background-color: rgb(216, 216, 252);
+    padding: 30px;
+    margin-right: 20px;
+}
+.second-box{
+    background-color: rgb(250, 232, 235);
+    padding: 30px;
+    margin-right: 20px;
+}
+.third-box{
+    background-color: rgb(248, 230, 197);
+    padding: 30px;
+}
+
+.box-title{
+    font-size: 28px;
+    margin-top: 25px;
+}
+.box-desc{
+    font-size: 17px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.box-img{
+    margin-top: 25px;
+}
+
+/* Second Box Part */
+
+.frst-imgbox{
+    display: flex;
+    margin-top: 100px;
+}
+.frst-boxpic{
+    width: 62%;
+    height: 72vh;
+    margin-left: 100px;
+    border-radius: 5px;
+    background-position: right;
+}
+.frst-imgboxtitle{
+    font-size: 47px;
+    margin-top: 40px;
+    margin-bottom: 28px;
+}
+.frst-imgboxdesc{
+    font-size: 20px;
+    color: rgb(70, 70, 70);
+}
+.frst-imgboxbtn{
+    padding: 15px 22px;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(238, 66, 66);
+    border-style: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.frst-box{
+    margin-left: 157px;
+}
+
+/* 2nd Box Image */
+
+.scnd-boxpic{
+    width: 60%;
+    height: 72vh;
+    border-radius: 5px;
+    background-position: right;
+    margin-left: 157px;
+}
+.scnd-box{
+    margin-right: 150px;
+}
+.scnd-imgboxtitle{
+    font-size: 47px;
+    margin-top: 40px;
+    margin-bottom: 28px;
+}
+.scnd-imgboxdesc{
+    font-size: 20px;
+    color: rgb(70, 70, 70);
+}
